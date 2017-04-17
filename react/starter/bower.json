@@ -1,0 +1,24 @@
+{
+  "name": "react-starter",
+  "description": "A React Starter Kit to use as a starting point for working on simple ReactJS app",
+  "main": "index.js",
+  "authors": [
+    "Paulo Menezes"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ReactJS"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "blueimp-gallery": "^2.25.0"
+  }
+}
